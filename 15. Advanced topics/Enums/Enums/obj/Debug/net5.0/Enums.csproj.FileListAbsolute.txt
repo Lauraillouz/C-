@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/Enums.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/Enums.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/Enums.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/Enums.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/ref/Enums.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/bin/Debug/net5.0/Enums.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/ref/Enums.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Enums/Enums/obj/Debug/net5.0/Enums.genruntimeconfig.cache
