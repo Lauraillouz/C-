@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/Stacks.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/Stacks.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/Stacks.dll
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/ref/Stacks.dll
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/bin/Debug/net5.0/Stacks.pdb
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.dll
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/ref/Stacks.dll
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.pdb
+/Users/Woodyla/Desktop/Web projects/C#/9. Stacks & Queues/Stacks/obj/Debug/net5.0/Stacks.genruntimeconfig.cache

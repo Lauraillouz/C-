@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{081D260B-C057-4B90-94FC-02BF9BD78013}|Default">
+  <MonoDevelop.Ide.ItemProperties.InheritanceDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VideoPost.cs">
+    <Files>
+      <File FileName="Program.cs" Line="23" Column="25" />
+      <File FileName="Post.cs" />
+      <File FileName="ImagePost.cs" />
+      <File FileName="VideoPost.cs" Line="58" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

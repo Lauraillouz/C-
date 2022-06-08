@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ArraLists.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ArraLists.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ArraLists.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ArraLists.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ref/ArraLists.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/bin/Debug/net5.0/ArraLists.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ref/ArraLists.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraLists/obj/Debug/net5.0/ArraLists.genruntimeconfig.cache

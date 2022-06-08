@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E843E04F-DDF6-40A3-B639-F59001F39F14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="28" />
+      <File FileName="Radio.cs" Line="10" Column="13" />
+      <File FileName="TV.cs" Line="8" Column="10" />
+      <File FileName="ElectricalDevice.cs" Line="27" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

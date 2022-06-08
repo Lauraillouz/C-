@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ArraysParameters.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ArraysParameters.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ArraysParameters.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ArraysParameters.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ref/ArraysParameters.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/bin/Debug/net5.0/ArraysParameters.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ref/ArraysParameters.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysParameters/obj/Debug/net5.0/ArraysParameters.genruntimeconfig.cache

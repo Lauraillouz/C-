@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F0A978B6-F74C-4296-846B-1993F0AD341C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="18" />
+      <File FileName="Shape.cs" Line="10" Column="34" />
+      <File FileName="Cube.cs" Line="19" Column="1" />
+      <File FileName="Sphere.cs" Line="16" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Abstract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/Challenge.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/Challenge.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/Challenge.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/Challenge.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/ref/Challenge.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/bin/Debug/net5.0/Challenge.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/ref/Challenge.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/Challenge/obj/Debug/net5.0/Challenge.genruntimeconfig.cache

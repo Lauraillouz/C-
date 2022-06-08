@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C0F334A1-586B-4FF7-9DA2-4C06311181CC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="33" Column="35" />
+      <File FileName="Car.cs" Line="21" Column="113" />
+      <File FileName="BMW.cs" Line="17" Column="20" />
+      <File FileName="AUdi.cs" Line="23" Column="10" />
+      <File FileName="M3.cs" Line="12" Column="106" />
+      <File FileName="CarIDInfo.cs" Line="7" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

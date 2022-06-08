@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge_Hashtable/1.0.0": {
+        "runtime": {
+          "Challenge_Hashtable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge_Hashtable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

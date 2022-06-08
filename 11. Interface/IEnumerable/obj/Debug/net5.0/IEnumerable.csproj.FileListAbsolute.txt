@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/IEnumerable.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/IEnumerable.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/IEnumerable.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/IEnumerable.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/ref/IEnumerable.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/bin/Debug/net5.0/IEnumerable.pdb
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/ref/IEnumerable.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.pdb
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable/obj/Debug/net5.0/IEnumerable.genruntimeconfig.cache

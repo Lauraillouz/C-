@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/Polymorphism.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/Polymorphism.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/Polymorphism.dll
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/ref/Polymorphism.dll
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/bin/Debug/net5.0/Polymorphism.pdb
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.dll
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/ref/Polymorphism.dll
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.pdb
+/Users/Woodyla/Desktop/Web projects/C#/12. Polymorphism/Polymorphism/obj/Debug/net5.0/Polymorphism.genruntimeconfig.cache

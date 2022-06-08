@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/Objects.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/Objects.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/Objects.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/Objects.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/ref/Objects.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/bin/Debug/net5.0/Objects.pdb
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/ref/Objects.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.pdb
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/Objects/obj/Debug/net5.0/Objects.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/MembersCourse.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/MembersCourse.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/MembersCourse.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/MembersCourse.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/ref/MembersCourse.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/bin/Debug/net5.0/MembersCourse.pdb
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/ref/MembersCourse.dll
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.pdb
+/Users/Woodyla/Desktop/Web projects/C#/6. Objects/MembersCourse/obj/Debug/net5.0/MembersCourse.genruntimeconfig.cache

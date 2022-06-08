@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ArraysAndLoops.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ArraysAndLoops.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ArraysAndLoops.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ArraysAndLoops.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ref/ArraysAndLoops.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/bin/Debug/net5.0/ArraysAndLoops.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ref/ArraysAndLoops.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/ArraysAndLoops/obj/Debug/net5.0/ArraysAndLoops.genruntimeconfig.cache

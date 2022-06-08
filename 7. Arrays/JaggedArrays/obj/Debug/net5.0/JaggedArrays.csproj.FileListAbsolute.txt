@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/JaggedArrays.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/JaggedArrays.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/JaggedArrays.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/JaggedArrays.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/ref/JaggedArrays.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/bin/Debug/net5.0/JaggedArrays.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/ref/JaggedArrays.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/JaggedArrays/obj/Debug/net5.0/JaggedArrays.genruntimeconfig.cache

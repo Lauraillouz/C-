@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/StringManipulation.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/StringManipulation.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/StringManipulation.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/StringManipulation.dll
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/ref/StringManipulation.dll
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/bin/Debug/net5.0/StringManipulation.pdb
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.dll
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/ref/StringManipulation.dll
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.pdb
+/Users/Woodyla/Desktop/Web projects/C#/StringManipulation/obj/Debug/net5.0/StringManipulation.genruntimeconfig.cache

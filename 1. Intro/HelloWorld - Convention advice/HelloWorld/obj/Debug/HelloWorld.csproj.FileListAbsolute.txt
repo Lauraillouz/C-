@@ -1,0 +1,14 @@
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.config
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojResolveAssemblyReference.cache
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+F:/C# Masterclass Course/Projects/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/bin/Debug/HelloWorld.exe.config
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/obj/Debug/HelloWorld.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/Woodyla/Desktop/Web projects/C#/HelloWorld 2/HelloWorld/obj/Debug/HelloWorld.pdb

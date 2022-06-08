@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/TextFile.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/TextFile.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/TextFile.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/TextFile.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/ref/TextFile.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/bin/Debug/net5.0/TextFile.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/ref/TextFile.dll
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/14.TextFile/TextFile/obj/Debug/net5.0/TextFile.genruntimeconfig.cache

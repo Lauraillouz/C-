@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/TicTacToe.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/TicTacToe.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/TicTacToe.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/ref/TicTacToe.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/bin/Debug/net5.0/TicTacToe.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/ref/TicTacToe.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/TicTacToe/obj/Debug/net5.0/TicTacToe.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{01096E8D-1E41-4B1E-995A-F0EA9309B7FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ticket.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="Ticket.cs" Line="19" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

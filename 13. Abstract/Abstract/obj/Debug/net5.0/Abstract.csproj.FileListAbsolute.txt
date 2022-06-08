@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/Abstract.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/Abstract.dll
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/ref/Abstract.dll
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/bin/Debug/net5.0/Abstract.pdb
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.dll
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/ref/Abstract.dll
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.pdb
+/Users/Woodyla/Desktop/Web projects/C#/13. Abstract/Abstract/obj/Debug/net5.0/Abstract.genruntimeconfig.cache

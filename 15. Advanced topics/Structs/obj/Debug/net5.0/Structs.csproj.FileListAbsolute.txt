@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/Structs.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/Structs.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/Structs.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/Structs.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/ref/Structs.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/bin/Debug/net5.0/Structs.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/ref/Structs.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Structs/obj/Debug/net5.0/Structs.genruntimeconfig.cache

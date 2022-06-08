@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/Dictionnaries.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/Dictionnaries.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/Dictionnaries.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/Dictionnaries.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/ref/Dictionnaries.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/bin/Debug/net5.0/Dictionnaries.pdb
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/ref/Dictionnaries.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.pdb
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Dictionnaries/obj/Debug/net5.0/Dictionnaries.genruntimeconfig.cache

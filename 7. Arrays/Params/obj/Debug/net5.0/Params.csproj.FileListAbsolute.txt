@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/Params.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/Params.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/Params.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/Params.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/ref/Params.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/bin/Debug/net5.0/Params.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/ref/Params.dll
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.pdb
+/Users/Woodyla/Desktop/Web projects/C#/7. Arrays/Params/obj/Debug/net5.0/Params.genruntimeconfig.cache

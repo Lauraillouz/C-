@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/Loops.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/Loops.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/Loops.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/Loops.dll
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/ref/Loops.dll
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/bin/Debug/net5.0/Loops.pdb
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.dll
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/ref/Loops.dll
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.pdb
+/Users/Woodyla/Desktop/Web projects/C#/5. Loops/Loops/obj/Debug/net5.0/Loops.genruntimeconfig.cache

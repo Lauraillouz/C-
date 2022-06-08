@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/Challenge_Hashtable.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/Challenge_Hashtable.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/Challenge_Hashtable.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/Challenge_Hashtable.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/ref/Challenge_Hashtable.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/bin/Debug/net5.0/Challenge_Hashtable.pdb
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/ref/Challenge_Hashtable.dll
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.pdb
+/Users/Woodyla/Desktop/Web projects/C#/8. Hashtables and Dictionnaries/Challenge_Hashtable/obj/Debug/net5.0/Challenge_Hashtable.genruntimeconfig.cache

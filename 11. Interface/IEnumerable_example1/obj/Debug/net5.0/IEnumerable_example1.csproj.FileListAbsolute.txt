@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/IEnumerable_example1.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/IEnumerable_example1.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/IEnumerable_example1.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/IEnumerable_example1.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/ref/IEnumerable_example1.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/bin/Debug/net5.0/IEnumerable_example1.pdb
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/ref/IEnumerable_example1.dll
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.pdb
+/Users/Woodyla/Desktop/Web projects/C#/11. Interface/IEnumerable_example1/obj/Debug/net5.0/IEnumerable_example1.genruntimeconfig.cache

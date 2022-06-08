@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NestedLoopsAndArrays/1.0.0": {
+        "runtime": {
+          "NestedLoopsAndArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestedLoopsAndArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

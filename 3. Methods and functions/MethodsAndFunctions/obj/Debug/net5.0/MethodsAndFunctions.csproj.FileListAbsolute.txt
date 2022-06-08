@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/MethodsAndFunctions.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/MethodsAndFunctions.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/MethodsAndFunctions.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/MethodsAndFunctions.dll
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/ref/MethodsAndFunctions.dll
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/bin/Debug/net5.0/MethodsAndFunctions.pdb
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.dll
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/ref/MethodsAndFunctions.dll
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.pdb
+/Users/Woodyla/Desktop/Web projects/C#/MethodsAndFunctions/obj/Debug/net5.0/MethodsAndFunctions.genruntimeconfig.cache

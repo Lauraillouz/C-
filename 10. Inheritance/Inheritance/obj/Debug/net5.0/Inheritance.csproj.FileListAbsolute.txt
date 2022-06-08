@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/Woodyla/Desktop/Web projects/C#/10. Inheritance/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
