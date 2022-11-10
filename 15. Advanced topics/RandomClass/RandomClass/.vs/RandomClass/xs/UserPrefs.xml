@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{53C02B92-C93A-4F16-826F-041906581818}|Default">
+﻿<Properties StartupConfiguration="{7CCA644E-37F2-4C0C-890F-F60363D2A65F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="15" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MathClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RandomClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
