@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Woodyla/.dotnet/store/|arch|/|tfm|",
+      "/Users/Woodyla/.nuget/packages"
+    ]
+  }
+}

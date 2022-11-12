@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/Nullables.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/Nullables.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/Nullables.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/ref/Nullables.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/bin/Debug/net5.0/Nullables.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/ref/Nullables.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/Nullables/obj/Debug/net5.0/Nullables.genruntimeconfig.cache
