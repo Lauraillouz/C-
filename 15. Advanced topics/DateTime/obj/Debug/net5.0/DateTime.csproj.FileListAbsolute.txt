@@ -1,0 +1,15 @@
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/DateTime.deps.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/DateTime.runtimeconfig.dev.json
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/DateTime.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/ref/DateTime.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/bin/Debug/net5.0/DateTime.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.csproj.AssemblyReference.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfoInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.AssemblyInfo.cs
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.csproj.CoreCompileInputs.cache
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/ref/DateTime.dll
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.pdb
+/Users/Woodyla/Desktop/WebProjects/C#/15. Advanced topics/DateTime/obj/Debug/net5.0/DateTime.genruntimeconfig.cache
